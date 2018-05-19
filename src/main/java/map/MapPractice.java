@@ -8,6 +8,7 @@ public class MapPractice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//git commit test
 		Map<Character, Integer> mp=new LinkedHashMap<Character,Integer>();
 		String st="I will win the Interview";
 		char[] stChar=st.toCharArray();
