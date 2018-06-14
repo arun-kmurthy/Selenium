@@ -8,7 +8,7 @@ import java.util.TreeMap;
 public class MapSort {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 
 		Map<Integer,String > unsorted=new LinkedHashMap<Integer,String>();
 		unsorted.put(21, "Twenty One");
 		unsorted.put(41, "Forty One");
